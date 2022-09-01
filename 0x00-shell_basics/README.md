@@ -1,1 +1,1 @@
-print the absolute pathname of the working directory
+this readme describes what each script does

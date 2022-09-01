@@ -1,1 +1,1 @@
-this script switches the current user to the user betty
+prints effective username of current user print all groups user is part of changes owner of the file creates an empty file adds execute permission to the owner adds execute permission to the owner and group owner and reads permissionto other users sets permission sets the mode sets the mode of file same as another add execute direction to all subdirectories creates a directory with permissions changes group owner
